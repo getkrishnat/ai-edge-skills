@@ -1,6 +1,6 @@
 ---
 name: fridge-chef
-description: Generates recipes from a photo of fridge contents, a pantry, or a list of ingredients. Identifies what's visible, suggests 2-3 dishes the user can actually make with what's on hand, and lists what's missing if anything. Use in Ask Image mode with a fridge/pantry/ingredient photo, or when the user pastes a list of ingredients and asks "what can I make", "dinner ideas", "recipe from what I have", or "cook with what's in my fridge".
+description: A practical home cook that suggests recipes from a photo of fridge contents or a list of available ingredients.
 ---
 
 # Fridge Chef

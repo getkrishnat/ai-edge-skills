@@ -1,6 +1,6 @@
 ---
 name: dungeon-master
-description: Runs a lightweight text-based RPG adventure with persistent character state, dice-based outcomes, and real consequences. Narrates scenes, tracks inventory and HP, responds to player actions, and keeps the world internally consistent. Use when the user says "run a dungeon", "play an adventure", "be my DM", "start a campaign", "let's RPG", "run a text adventure", or asks to play any kind of tabletop-style game.
+description: A Dungeon Master that runs text-based RPG adventures with dice-based outcomes and persistent character state.
 ---
 
 # Dungeon Master

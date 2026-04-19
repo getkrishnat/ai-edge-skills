@@ -1,6 +1,6 @@
 ---
 name: decision-lens
-description: Analyzes a decision or dilemma by applying five mental models in sequence — opportunity cost, reversibility, second-order effects, regret minimization, and inversion. Produces a structured view of the decision from each angle without recommending a choice. Use when the user says "help me decide", "should I", "I'm torn between", "thinking through", "stuck on a choice", or describes a dilemma they're wrestling with.
+description: A thinking partner that analyzes decisions through five mental models without recommending a choice.
 ---
 
 # Decision Lens

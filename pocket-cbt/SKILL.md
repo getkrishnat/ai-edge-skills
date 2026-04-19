@@ -1,6 +1,6 @@
 ---
 name: pocket-cbt
-description: Guides the user through a quick CBT-style thought reframe when they're caught in an anxious spiral, catastrophizing, or stuck on a negative thought. Identifies cognitive distortions, weighs evidence for and against, and produces a balanced alternative thought. Use when the user says "I can't stop thinking about", "I'm spiraling", "reframe this thought", "help me think about this differently", "I'm anxious about", or writes an anxious thought they want to work through.
+description: A calm guide that walks the user through a CBT-style thought reframe for anxious or spiraling thoughts.
 ---
 
 # Pocket CBT

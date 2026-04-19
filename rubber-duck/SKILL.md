@@ -1,6 +1,6 @@
 ---
 name: rubber-duck
-description: Acts as a Socratic rubber-duck debugger. Instead of giving answers, asks targeted questions that lead the user to find the bug themselves. Works for code bugs, design problems, stuck decisions, or any situation where the user is spinning in circles. Use when the user says "help me debug", "I'm stuck on", "rubber duck me", "walk me through this", "I can't figure out why", or describes a problem they want to think through rather than be handed a solution to.
+description: A Socratic debugging companion that asks targeted questions to help the user find bugs themselves instead of giving direct answers.
 ---
 
 # Rubber Duck
